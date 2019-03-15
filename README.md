@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Yuliana Cols - Proyecto Sitio Web
 
-You can use the [editor on GitHub](https://github.com/kenshin23/yulianacols/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Las siguientes son propuestas iniciales de temas que pudiesen ser utilizados como base para el desarrollo del sitio. Los colores, fotos y demás elementos son meramente demostrativos, pudiendo personalizarse totalmente.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La intención es que esto pueda servir como muestra para ayudar a elegir un tema para comenzar, o en caso de ser necesario, descartar las opciones y proseguir con otras.
 
-### Markdown
+Favor revisar cada opción y hacerme llegar los comentarios al respecto.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Apemius](https://kenshin23.github.io/yulianacols/apemius/)
+2. [Chaldene](https://kenshin23.github.io/yulianacols/chaldene/)
+3. [Devagura](https://kenshin23.github.io/yulianacols/devagura/)
+4. [Litae](https://kenshin23.github.io/yulianacols/litae/)
+5. [Thebe](https://kenshin23.github.io/yulianacols/thebe/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kenshin23/yulianacols/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gracias de antemano,
+Carlos.
