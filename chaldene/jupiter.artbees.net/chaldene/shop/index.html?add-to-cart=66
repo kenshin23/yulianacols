@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>
+		<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="format-detection" content="telephone=no"><title>Shop - Chaldene Template - Jupiter WordPress Theme</title>
+<script type="text/javascript">var ajaxurl = "https://jupiter.artbees.net/chaldene/wp-admin/admin-ajax.php";</script>
+		<style id="critical-path-css" type="text/css">
+			body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}		</style>
+
+		
+<!-- This site is optimized with the Yoast SEO Premium plugin v6.1.1 - https://yoa.st/1yg?utm_content=6.1.1 -->
+<link rel="canonical" href="https://jupiter.artbees.net/chaldene/shop/" />
+<link rel="next" href="https://jupiter.artbees.net/chaldene/shop/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Shop - Chaldene Template - Jupiter WordPress Theme" />
+<meta property="og:description" content="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper." />
+<meta property="og:url" content="https://jupiter.artbees.net/chaldene/shop/" />
+<meta property="og:site_name" content="Chaldene Template - Jupiter WordPress Theme" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper." />
+<meta name="twitter:title" content="Shop - Chaldene Template - Jupiter WordPress Theme" />
+<meta name="twitter:image" content="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/jupiter.artbees.net\/chaldene\/","name":"Chaldene Template - Jupiter WordPress Theme","potentialAction":{"@type":"SearchAction","target":"https:\/\/jupiter.artbees.net\/chaldene\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Chaldene Template - Jupiter WordPress Theme &raquo; Feed" href="https://jupiter.artbees.net/chaldene/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Chaldene Template - Jupiter WordPress Theme &raquo; Comments Feed" href="https://jupiter.artbees.net/chaldene/comments/feed/" />
+
+<link rel="shortcut icon" href="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2018/03/favicon.png"  />
+<link rel="alternate" type="application/rss+xml" title="Chaldene Template - Jupiter WordPress Theme &raquo; Products Feed" href="https://jupiter.artbees.net/chaldene/shop/feed/" />
+<script type="text/javascript">window.abb = {};php = {};window.PHP = {};PHP.ajax = "https://jupiter.artbees.net/chaldene/wp-admin/admin-ajax.php";PHP.wp_p_id = "9";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;var mk_images_dir = "https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/images",mk_theme_js_path = "https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js",mk_theme_dir = "https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter",mk_captcha_placeholder = "Enter Captcha",mk_captcha_invalid_txt = "Invalid. Try again.",mk_captcha_correct_txt = "Captcha correct.",mk_responsive_nav_width = 1140,mk_vertical_header_back = "Back",mk_vertical_header_anim = "1",mk_check_rtl = true,mk_grid_width = 1140,mk_ajax_search_option = "fullscreen_search",mk_preloader_bg_color = "#f90053",mk_accent_color = "#c7b083",mk_go_to_top =  "true",mk_smooth_scroll =  "true",mk_preloader_bar_color = "#c7b083",mk_preloader_logo = "https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/12/preloader.png";var mk_header_parallax = false,mk_banner_parallax = false,mk_footer_parallax = false,mk_body_parallax = false,mk_no_more_posts = "No More Posts",mk_typekit_id   = "",mk_google_fonts = ["Josefin Sans:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"],mk_global_lazyload = true;</script><link rel='stylesheet' id='wp-block-library-css'  href='https://jupiter.artbees.net/chaldene/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.4.5' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.4.5' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='theme-styles-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/min/full-styles.6.1.5.css?ver=1533197636' type='text/css' media='all' />
+<style id='theme-styles-inline-css' type='text/css'>
+body { background-color:#fff;background-repeat:no-repeat; } .hb-custom-header #mk-page-introduce, .mk-header { background-color:#c7b083;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } .hb-custom-header > div, .mk-header-bg { background-color:#c7b083; } .mk-classic-nav-bg { background-color:#c7b083; } .master-holder-bg { background-color:#fff; } #mk-footer { background-color:#f5f0ed;background-repeat:no-repeat;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:#ffffff; text-transform:uppercase; font-weight:inherit; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:#a3a3a3; font-size:14px; text-transform:none; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:101px; } .mk-process-steps[max-width~="950px"] ul::before { display:none !important; } .mk-process-steps[max-width~="950px"] li { margin-bottom:30px !important; width:100% !important; text-align:center; } .mk-event-countdown-ul[max-width~="750px"] li { width:90%; display:block; margin:0 auto 15px; } .compose-mode .vc_element-name .vc_btn-content { height:auto !important; } body { font-family:Arial, Helvetica, sans-serif } body { font-family:Josefin Sans } @font-face { font-family:'star'; src:url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }
+</style>
+<link rel='stylesheet' id='mkhb-render-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-render.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-row-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-row.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkhb-column-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/header-builder/includes/assets/css/mkhb-column.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-woocommerce-common-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/stylesheet/plugins/min/woocommerce-common.6.1.5.css?ver=1533197636' type='text/css' media='all' />
+<link rel='stylesheet' id='mk-cz-woocommerce-css'  href='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/css/woocommerce.6.1.5.css?ver=1533197636' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-options-css'  href='https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/mk_assets/theme-options-production-1533213906.css?ver=1533212140' type='text/css' media='all' />
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/webfontloader.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+WebFontConfig = {
+	timeout: 2000
+}
+
+if ( mk_typekit_id.length > 0 ) {
+	WebFontConfig.typekit = {
+		id: mk_typekit_id
+	}
+}
+
+if ( mk_google_fonts.length > 0 ) {
+	WebFontConfig.google = {
+		families:  mk_google_fonts
+	}
+}
+
+if ( (mk_google_fonts.length > 0 || mk_typekit_id.length > 0) && navigator.userAgent.indexOf("Speed Insights") == -1) {
+	WebFont.load( WebFontConfig );
+}
+		
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var abb = {"ga_id":"UA-50996228-2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/abb-multisite-analytics-plugin/abb-multisite-ga.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/chaldene\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/chaldene\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jupiter.artbees.net\/chaldene\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.4.5'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/js_composer_theme/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.5.2'></script>
+<link rel='https://api.w.org/' href='https://jupiter.artbees.net/chaldene/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jupiter.artbees.net/chaldene/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jupiter.artbees.net/chaldene/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.4" />
+<meta name="generator" content="WooCommerce 3.4.5" />
+<script> var isTest = false; </script><meta itemprop="author" content="Alex Neil" /><meta itemprop="datePublished" content="July 1, 2015" /><meta itemprop="dateModified" content="March 29, 2018" /><meta itemprop="publisher" content="Chaldene Template - Jupiter WordPress Theme" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://jupiter.artbees.net/chaldene/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Jupiter 6.1.5" /><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+<body class="archive post-type-archive post-type-archive-product woocommerce woocommerce-page woocommerce-no-js mk-customizer columns-3 mk-sh-pl-hover-style-none wpb-js-composer js-comp-ver-5.5.2 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage"  data-adminbar="">
+
+	
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container" >
+
+				 
+    <header data-height='100'
+                data-sticky-height='55'
+                data-responsive-height='90'
+                data-transparent-skin=''
+                data-header-style='1'
+                data-sticky-style='fixed'
+                data-sticky-offset='header' id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-4 sticky-style-fixed mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-4" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-menu" class="main-navigation-ul"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/">Home</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/about-us/">About Us</a></li>
+<li id="menu-item-5979" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/shop/">Shop</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/contact-us/">Contact Us</a></li>
+</ul></nav>
+	<div class="main-nav-side-search">
+		<a class="mk-search-trigger add-header-height mk-fullscreen-trigger" href="#"><i class="mk-svg-icon-wrapper"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5c8aca631273a" style=" height:16px; width: 14.857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i></a>
+	</div>
+
+
+<div class="shopping-cart-header add-header-height">
+	
+	<a class="mk-shoping-cart-link" href="https://jupiter.artbees.net/chaldene/cart/">
+		<svg  class="mk-svg-icon" data-name="mk-moon-cart-2" data-cacheid="icon-5c8aca6312d70" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M423.609 288c17.6 0 35.956-13.846 40.791-30.769l46.418-162.463c4.835-16.922-5.609-30.768-23.209-30.768h-327.609c0-35.346-28.654-64-64-64h-96v64h96v272c0 26.51 21.49 48 48 48h304c17.673 0 32-14.327 32-32s-14.327-32-32-32h-288v-32h263.609zm-263.609-160h289.403l-27.429 96h-261.974v-96zm32 344c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16zm288 0c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16z"/></svg>		<span class="mk-header-cart-count">7</span>
+	</a>
+
+	<div class="mk-shopping-cart-box">
+		<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>		<div class="clearboth"></div>
+	</div>
+
+</div>
+                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>	<div class=" header-logo fit-logo-img add-header-height  logo-has-sticky">
+		<a href="https://jupiter.artbees.net/chaldene/" title="Chaldene Template &#8211; Jupiter WordPress Theme">
+
+			<img class="mk-desktop-logo dark-logo "
+				title="Another amazing template created by Jupiter WordPress theme"
+				alt="Another amazing template created by Jupiter WordPress theme"
+				src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/logo.png" />
+
+			
+			
+							<img class="mk-sticky-logo "
+					title="Another amazing template created by Jupiter WordPress theme"
+					alt="Another amazing template created by Jupiter WordPress theme"
+					src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/sticky-logo.png" />
+					</a>
+	</div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/">Home</a></li>
+<li id="responsive-menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/about-us/">About Us</a></li>
+<li id="responsive-menu-item-5979" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/shop/">Shop</a></li>
+<li id="responsive-menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll"  href="https://jupiter.artbees.net/chaldene/contact-us/">Contact Us</a></li>
+</ul></nav>
+			<form class="responsive-searchform" method="get" action="https://jupiter.artbees.net/chaldene/">
+		    <input type="text" class="text-input" value="" name="s" id="s" placeholder="Search.." />
+		    <i><input value="" type="submit" /><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5c8aca6313e9f" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+ 
+                
+    </header>
+	<div id="theme-page" class="master-holder clearfix" role=&quot;main&quot; itemprop=&quot;mainContentOfPage&quot; >
+		<div class="master-holder-bg-holder">
+			<div id="theme-page-bg" class="master-holder-bg js-el"></div>
+		</div>
+		<div class="mk-main-wrapper-holder">
+			<div class="theme-page-wrapper left-layout no-padding mk-grid">
+				<div class="theme-content no-padding">
+	<header class="woocommerce-products-header">
+	
+	
+<div class="mk-page-section-wrapper" data-mk-full-width="true" data-mk-full-width-init="true" data-mk-stretch-content="true">
+	<div id="page-section-2" class="mk-page-section self-hosted   full_layout full-width-2 js-el js-master-row     center-y"    data-intro-effect="false">
+
+			
+			<div class="mk-page-section-inner">
+				
+
+
+<div style="background-color:#555555;opacity:0.1;" class="mk-video-color-mask"></div>
+
+				
+				
+		
+
+	<div class="background-layer-holder">
+		<div id="background-layer--2" data-mk-lazyload="false" class="background-layer mk-background-stretch none-blend-effect js-el"    data-mk-img-set='{"portrait":{"external":"https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2018/03/shop-bg-00.jpg"},"responsive":"true"}' >
+									<div class="mk-color-layer"></div>
+		</div>
+	</div>
+
+			</div>
+
+			
+        <div class="page-section-content vc_row-fluid mk-grid " >
+            <div class="mk-padding-wrapper wpb_row">
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<h2 id="fancy-title-4" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>beauty is here</p>
+			</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-4 {font-family: "Playfair Display"}</style>
+<h2 id="fancy-title-5" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>Order right away!</p>
+			</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-5 {font-family: "Playfair Display"}</style></div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+			
+			
+			
+		<div class="clearboth"></div>
+	</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+<div class="mk-page-section-wrapper" data-mk-full-width="true" data-mk-full-width-init="true" data-mk-stretch-content="true">
+	<div id="page-section-6" class="mk-page-section self-hosted   full_layout full-width-6 js-el js-master-row    "    data-intro-effect="false">
+
+			
+			<div class="mk-page-section-inner">
+				
+
+
+<div class="mk-video-color-mask"></div>
+
+				
+							</div>
+
+			
+        <div class="page-section-content vc_row-fluid mk-grid " >
+            <div class="mk-padding-wrapper wpb_row">
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<div id="padding-8" class="mk-padding-divider   clearfix"></div>
+
+
+<h2 id="fancy-title-9" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>best sellers</p>
+			</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-9 {font-family: "Playfair Display"}</style><div class="mk-woocommerce-carousel modern-style   mk-sc-active">
+
+
+
+<div class="mk-swipe-slideshow">
+	<div id="mk-swiper-10"
+		data-mk-component='SwipeSlideshow'
+		data-swipeSlideshow-config='{
+			"effect" : "slide",
+			"slide" : ".mk-slider-holder > .swiper-slide",
+			"slidesPerView" : "3",
+			"displayTime" : 5000,
+			"transitionTime" : 500,
+			"nav" : ".mk-swipe-slideshow-nav-10",
+			"hasNav" : true,
+			"fluidHeight" : "toHighest" }'
+		class="mk-swiper-container  js-el">
+
+		<div class="mk-swiper-wrapper mk-slider-holder">
+								<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/rosetamo/">
+									<img alt="Rosetamo" title="Rosetamo" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/rosetamo/">Rosetamo</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span></span>
+
+<div id="mk-button-11" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/rosetamo/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631905e" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/the-sun/">
+									<img alt="The Sun" title="The Sun" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-006-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/the-sun/">The Sun</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span></span>
+
+<div id="mk-button-12" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/the-sun/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631a565" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/yellowish/">
+									<img alt="yellowish" title="yellowish" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-007-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/yellowish/">yellowish</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span></span>
+
+<div id="mk-button-13" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/yellowish/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631ba1a" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/bingol/">
+									<img alt="Bingol" title="Bingol" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/bingol/">Bingol</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
+
+<div id="mk-button-14" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/bingol/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631cfd3" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/nice-flow/">
+									<img alt="Nice Flow" title="Nice Flow" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-001-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/nice-flow/">Nice Flow</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>80.00</span></span>
+
+<div id="mk-button-15" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/nice-flow/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631e49c" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/marinoseta/">
+									<img alt="Marinoseta" title="Marinoseta" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-007-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/marinoseta/">Marinoseta</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span></span>
+
+<div id="mk-button-16" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/marinoseta/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca631f860" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/roseta/">
+									<img alt="Roseta" title="Roseta" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-003-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/roseta/">Roseta</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>15.00</span></span>
+
+<div id="mk-button-17" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/roseta/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca6320e1e" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/absolute-sweetness/">
+									<img alt="Absolute Sweetness" title="Absolute Sweetness" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/absolute-sweetness/">Absolute Sweetness</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>67.00</span></span>
+
+<div id="mk-button-18" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/absolute-sweetness/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca63222cb" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/perfectly-pastel/">
+									<img alt="Perfectly Pastel" title="Perfectly Pastel" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/perfectly-pastel/">Perfectly Pastel</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>160.00</span></span>
+
+<div id="mk-button-19" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/perfectly-pastel/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca63236fd" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/a-walk-in-the-sun/">
+									<img alt="A Walk in the Sun" title="A Walk in the Sun" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/a-walk-in-the-sun/">A Walk in the Sun</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>79.00</span></span>
+
+<div id="mk-button-20" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/a-walk-in-the-sun/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca6324b69" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/sweetest-surprise/">
+									<img alt="Sweetest Surprise" title="Sweetest Surprise" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/sweetest-surprise/">Sweetest Surprise</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
+
+<div id="mk-button-21" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/sweetest-surprise/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca6325ecb" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/lavender-wishes/">
+									<img alt="Lavender Wishes" title="Lavender Wishes" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-006-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/lavender-wishes/">Lavender Wishes</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>200.00</span></span>
+
+<div id="mk-button-22" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/lavender-wishes/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca632726c" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/bergamot/">
+									<img alt="Bergamot" title="Bergamot" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/bergamot/">Bergamot</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span></span>
+
+<div id="mk-button-23" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/bergamot/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca63285e6" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/bellflower/">
+									<img alt="Bellflower" title="Bellflower" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-003-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/bellflower/">Bellflower</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>32.00</span></span>
+
+<div id="mk-button-24" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/bellflower/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca632987d" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/begonia/">
+									<img alt="Begonia" title="Begonia" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/begonia/">Begonia</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>150.00</span></span>
+
+<div id="mk-button-25" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/begonia/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca632ac25" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+										<div class="swiper-slide">
+						<div class="item-holder">
+
+								<a class="mk-lightbox" data-fancybox-group="10" href="https://jupiter.artbees.net/chaldene/product/amaranth/">
+									<img alt="Amaranth" title="Amaranth" width="330" height="260" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-001-330x260.jpg" itemprop="image" />
+
+									<i class="mk-jupiter-icon-plus-circle"><span>&nbsp;</span></i>
+										<span class="image-hover-overlay"></span>
+								</a>
+
+								<h3 class="the-title"><a href="https://jupiter.artbees.net/chaldene/product/amaranth/">Amaranth</a></h3>
+
+								
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
+
+<div id="mk-button-26" class="mk-button-container _ relative   mk-button--anim-side block text-center ">
+
+	
+		<a href="https://jupiter.artbees.net/chaldene/product/amaranth/" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-small mk-button--corner-pointed _ relative text-center font-weight-700 no-backface  letter-spacing-1 inline"><i class="mk-button--icon"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca632bfa7" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg></i><span class="mk-button--text">BUY NOW</span></a>
+
+	
+</div>
+						</div>
+					</div>
+							</div>
+		<div class="swiper-navigation mk-swipe-slideshow-nav-10">
+			<a class="mk-swiper-prev swiper-arrows" data-direction="prev"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-arrow-left" data-cacheid="icon-5c8aca632c750" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M368 505.6c-8 0-16-3.2-22.4-8l-240-225.6c-6.4-6.4-9.6-14.4-9.6-24 0-8 3.2-16 9.6-22.4l240-224c12.8-11.2 33.6-11.2 44.8 1.6 12.8 12.8 11.2 32-1.6 44.8l-214.4 201.6 216 203.2c12.8 11.2 12.8 32 0 44.8-4.8 4.8-14.4 8-22.4 8z"/></svg></a>
+			<a class="mk-swiper-next swiper-arrows" data-direction="next"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-arrow-right" data-cacheid="icon-5c8aca632c992" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M144 505.6c8 0 16-3.2 22.4-8l240-225.6c6.4-6.4 9.6-14.4 9.6-22.4s-3.2-16-9.6-22.4l-240-224c-12.8-12.8-32-12.8-44.8 0s-11.2 32 1.6 44.8l214.4 201.6-216 203.2c-12.8 11.2-12.8 32 0 44.8 6.4 4.8 14.4 8 22.4 8z"/></svg></a>
+		</div>
+	</div>
+</div>
+
+<div class="clearboth"></div>
+</div>
+
+
+</div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+			
+			
+			
+		<div class="clearboth"></div>
+	</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<div id="padding-28" class="mk-padding-divider   clearfix"></div>
+
+</div>
+	</div>
+
+<div class="mk-page-section-wrapper" data-mk-full-width="true" data-mk-full-width-init="true" data-mk-stretch-content="true">
+	<div id="page-section-29" class="mk-page-section self-hosted   full_layout full-width-29 js-el js-master-row    "    data-intro-effect="false">
+
+			
+			<div class="mk-page-section-inner">
+				
+
+
+<div class="mk-video-color-mask"></div>
+
+				
+				
+		
+
+	<div class="background-layer-holder">
+		<div id="background-layer--29" data-mk-lazyload="false" class="background-layer mk-background-stretch none-blend-effect js-el"    data-mk-img-set='{"landscape":{"external":"https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2018/03/cta-bg.jpg"},"responsive":"true"}' >
+									<div class="mk-color-layer"></div>
+		</div>
+	</div>
+
+			</div>
+
+			
+        <div class="page-section-content vc_row-fluid mk-grid " >
+            <div class="mk-padding-wrapper wpb_row">
+<div class="vc_col-sm-7 wpb_column column_container   _ height-full">
+	
+<div id="padding-31" class="mk-padding-divider   clearfix"></div>
+
+
+<h2 id="fancy-title-32" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>Summer Flowers Hot Promotion</p>
+			</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+<style>#fancy-title-32 {font-family: "Playfair Display"}</style>
+<h2 id="fancy-title-33" class="mk-fancy-title  simple-style   color-single">
+	<span>
+				<p>Save 35£ Per Purchase!</p>
+			</span>
+</h2>
+<div class="clearboth"></div>
+
+
+
+</div>
+
+<div class="vc_col-sm-5 wpb_column column_container   _ height-full">
+	
+<div id="padding-35" class="mk-padding-divider   clearfix"></div>
+
+
+<div id="mk-button-36" class="mk-button-container _ relative    inline none ">
+
+	
+		<a href="#" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-flat mk-button--size-large mk-button--corner-full_rounded text-color-light _ relative text-center font-weight-700 no-backface  letter-spacing-2 inline"><span class="mk-button--text">START SHOPPING</span></a>
+
+	
+</div>
+
+<div id="mk-button-37" class="mk-button-container _ relative    inline none ">
+
+	
+		<a href="#" target="_self" class="mk-button js-smooth-scroll mk-button--dimension-outline mk-button--size-large mk-button--corner-full_rounded skin-light _ relative text-center font-weight-700 no-backface  letter-spacing-2 inline"><span class="mk-button--text">DETAILS</span></a>
+
+	
+</div>
+</div>
+</div>
+            <div class="clearboth"></div>
+        </div>
+
+
+			
+			
+			
+		<div class="clearboth"></div>
+	</div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+<div  data-mk-stretch-content="true" class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-grid">
+				
+<div class="vc_col-sm-12 wpb_column column_container   _ height-full">
+	
+<div id="padding-39" class="mk-padding-divider   clearfix"></div>
+
+</div>
+	</div>
+
+</header>
+
+	<div class="woocommerce-message" role="alert"><a href="https://jupiter.artbees.net/chaldene/cart/" class="button wc-forward">View cart</a> &ldquo;A Walk in the Sun&rdquo; has been added to your cart.</div>
+<h4 class="mk-woocommerce-shop-loop__title">ALL PRODUCTS</h4><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by newness</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="add-to-cart" value="66" /></form>
+<ul class="products columns-3">
+<li class="post-66 product type-product status-publish has-post-thumbnail product_cat-wild-in-nature product_tag-basket product_tag-yellow first instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/a-walk-in-the-sun/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">A Walk in the Sun</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>79.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=66" data-quantity="1" data-product_id="66" data-product_sku="W-10" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="66" data-product_sku="W-10" aria-label="Add &ldquo;A Walk in the Sun&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca63318de" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-68 product type-product status-publish has-post-thumbnail product_cat-wild-in-nature product_tag-basket product_tag-wedding instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/absolute-sweetness/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Absolute Sweetness</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>67.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=68" data-quantity="1" data-product_id="68" data-product_sku="W-08" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="68" data-product_sku="W-08" aria-label="Add &ldquo;Absolute Sweetness&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca6333930" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-52 product type-product status-publish has-post-thumbnail product_cat-green-house product_cat-south-america product_tag-fresh product_tag-red last instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/amaranth/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-001-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Amaranth</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=52" data-quantity="1" data-product_id="52" data-product_sku="w-16" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="52" data-product_sku="w-16" aria-label="Add &ldquo;Amaranth&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca633535f" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-53 product type-product status-publish has-post-thumbnail product_cat-green-house product_cat-south-america product_cat-wild-in-nature product_tag-mixed product_tag-red product_tag-yellow first instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/begonia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Begonia</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>150.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=53" data-quantity="1" data-product_id="53" data-product_sku="W-15" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="53" data-product_sku="W-15" aria-label="Add &ldquo;Begonia&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca633722e" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-54 product type-product status-publish has-post-thumbnail product_cat-south-america product_cat-wild-in-nature product_tag-basket product_tag-mixed instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/bellflower/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-003-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Bellflower</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>32.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=54" data-quantity="1" data-product_id="54" data-product_sku="W-14" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="54" data-product_sku="W-14" aria-label="Add &ldquo;Bellflower&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca6338e8c" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-62 product type-product status-publish has-post-thumbnail product_cat-wild-in-nature product_tag-fresh product_tag-mixed last instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/bergamot/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Bergamot</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=62" data-quantity="1" data-product_id="62" data-product_sku="W-013" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="62" data-product_sku="W-013" aria-label="Add &ldquo;Bergamot&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca633af9b" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-6003 product type-product status-publish has-post-thumbnail product_cat-south-america product_cat-wild-in-nature product_tag-basket product_tag-mixed first instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/bingol/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Bingol</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=6003" data-quantity="1" data-product_id="6003" data-product_sku="W-04" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="6003" data-product_sku="W-04" aria-label="Add &ldquo;Bingol&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca633cf37" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-63 product type-product status-publish has-post-thumbnail product_cat-green-house product_cat-south-america product_tag-basket product_tag-yellow instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/lavender-wishes/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-006-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Lavender Wishes</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>200.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=63" data-quantity="1" data-product_id="63" data-product_sku="W-12" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="63" data-product_sku="W-12" aria-label="Add &ldquo;Lavender Wishes&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca633ea4d" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+<li class="post-5989 product type-product status-publish has-post-thumbnail product_cat-green-house product_tag-fresh product_tag-mixed last instock shipping-taxable purchasable product-type-simple">
+	<div class="mk-product-warp"><a href="https://jupiter.artbees.net/chaldene/product/marinoseta/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">	<div class="mk-product-thumbnail-warp">
+	<img width="430" height="573" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-007-430x573.jpg" class="attachment-430x573 size-430x573 wp-post-image" alt="" itemprop="image" />	</div>
+	<h2 class="woocommerce-loop-product__title">Marinoseta</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span></span>
+</a><a rel="nofollow" href="/chaldene/shop/?add-to-cart=5989" data-quantity="1" data-product_id="5989" data-product_sku="W-06" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="5989" data-product_sku="W-06" aria-label="Add &ldquo;Marinoseta&rdquo; to your cart" rel="nofollow"><svg  class="mk-svg-icon" data-name="mk-moon-cart-plus" data-cacheid="icon-5c8aca634056b" style=" height:15px; width: 15px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 96h-272c-16.138 0-29.751 12.018-31.753 28.031l-28.496 227.969h-51.751c-17.673 0-32 14.327-32 32s14.327 32 32 32h80c16.138 0 29.751-12.017 31.753-28.031l28.496-227.969h219.613l57.369 200.791c4.854 16.993 22.567 26.832 39.56 21.978 16.993-4.855 26.833-22.567 21.978-39.56l-64-224c-3.925-13.737-16.482-23.209-30.769-23.209zm-288-80a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm192 0a48 48 2700 1 0 96 0 48 48 2700 1 0-96 0zm64 240h-64v-64h-64v64h-64v64h64v64h64v-64h64z" transform="scale(1 -1) translate(0 -480)"/></svg><span class="button-text">Add to cart</span></a></div></li>
+</ul>
+<nav class="woocommerce-pagination">
+	<ul class='page-numbers'>
+	<li><span aria-current='page' class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='https://jupiter.artbees.net/chaldene/shop/page/2/'>2</a></li>
+	<li><a class="next page-numbers" href="https://jupiter.artbees.net/chaldene/shop/page/2/">&rarr;</a></li>
+</ul>
+</nav>
+<p class="woocommerce-result-count">
+	Showing 1&ndash;9 of 16 results</p>
+
+					</div>
+			<aside id="mk-sidebar" class="mk-builtin" role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" >
+	<div class="sidebar-wrapper">
+	<section id="text-7" class="widget widget_text">			<div class="textwidget"></div>
+		</section><section id="search-3" class="widget widget_search"><div class="widgettitle">SEARCH PRODUCTS</div><form class="mk-searchform" method="get" id="searchform" action="https://jupiter.artbees.net/chaldene/">
+	<input type="text" class="text-input" placeholder="Search site" value="" name="s" id="s" />
+	<i><input value="" type="submit" class="search-button" type="submit" /><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5c8aca634140f" style=" height:16px; width: 14.857142857143px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+</form> </section><section id="woocommerce_price_filter-2" class="widget woocommerce widget_price_filter"><div class="widgettitle">Filter by price</div><form method="get" action="https://jupiter.artbees.net/chaldene/shop/">
+			<div class="price_slider_wrapper">
+				<div class="price_slider" style="display:none;"></div>
+				<div class="price_slider_amount">
+					<input type="text" id="min_price" name="min_price" value="12" data-min="12" placeholder="Min price" />
+					<input type="text" id="max_price" name="max_price" value="200" data-max="200" placeholder="Max price" />
+					<button type="submit" class="button">Filter</button>
+					<div class="price_label" style="display:none;">
+						Price: <span class="from"></span> &mdash; <span class="to"></span>
+					</div>
+					<input type="hidden" name="add-to-cart" value="66" />
+					<div class="clear"></div>
+				</div>
+			</div>
+		</form></section><section id="woocommerce_top_rated_products-2" class="widget woocommerce widget_top_rated_products"><div class="widgettitle">Top Rated Products</div><ul class="product_list_widget"><li>
+	
+	<a href="https://jupiter.artbees.net/chaldene/product/sweetest-surprise/">
+		<img width="300" height="300" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-300x300.jpg 300w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-150x150.jpg 150w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-100x100.jpg 100w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-005-266x266.jpg 266w" sizes="(max-width: 300px) 100vw, 300px" itemprop="image" />		<span class="product-title">Sweetest Surprise</span>
+	</a>
+
+			<div class="star-rating" title="Rated 3.00 out of 5"><span style="width:60%"></span></div>	
+	<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span>
+	</li>
+<li>
+	
+	<a href="https://jupiter.artbees.net/chaldene/product/a-walk-in-the-sun/">
+		<img width="300" height="300" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-300x300.jpg 300w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-150x150.jpg 150w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-100x100.jpg 100w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-008-266x266.jpg 266w" sizes="(max-width: 300px) 100vw, 300px" itemprop="image" />		<span class="product-title">A Walk in the Sun</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>79.00</span>
+	</li>
+<li>
+	
+	<a href="https://jupiter.artbees.net/chaldene/product/absolute-sweetness/">
+		<img width="300" height="300" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-300x300.jpg 300w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-150x150.jpg 150w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-100x100.jpg 100w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-009-266x266.jpg 266w" sizes="(max-width: 300px) 100vw, 300px" itemprop="image" />		<span class="product-title">Absolute Sweetness</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>67.00</span>
+	</li>
+<li>
+	
+	<a href="https://jupiter.artbees.net/chaldene/product/begonia/">
+		<img width="300" height="300" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-300x300.jpg 300w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-150x150.jpg 150w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-100x100.jpg 100w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-002-266x266.jpg 266w" sizes="(max-width: 300px) 100vw, 300px" itemprop="image" />		<span class="product-title">Begonia</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>150.00</span>
+	</li>
+<li>
+	
+	<a href="https://jupiter.artbees.net/chaldene/product/bergamot/">
+		<img width="300" height="300" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-300x300.jpg 300w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-150x150.jpg 150w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-100x100.jpg 100w, https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2015/07/product-004-266x266.jpg 266w" sizes="(max-width: 300px) 100vw, 300px" itemprop="image" />		<span class="product-title">Bergamot</span>
+	</a>
+
+				
+	<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</span>
+	</li>
+</ul></section>	</div>
+</aside>
+				<div class="clearboth"></div>
+				</div>
+			</div>
+		</div>
+
+	
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+		<div class="footer-wrapper mk-grid">
+		<div class="mk-padding-wrapper">
+					<div class=""><section id="text-2" class="widget widget_text">			<div class="textwidget"><p><img class="aligncenter" src="https://jupiter.artbees.net/chaldene/wp-content/uploads/sites/42/2018/03/logo-footer.png" /></p>
+</div>
+		</section><section id="social-2" class="widget widget_social_networks"><div id="social-5c8aca6344e9a" class="align-center"><a href="https://dribbble.com/Artbees" rel="nofollow" class="builtin-icons custom small dribbble-hover" target="_blank" alt="Follow Us on dribbble" title="Follow Us on dribbble"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-dribbble" data-cacheid="icon-5c8aca63450a4" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256.014-6.371c-141.381.014-255.979 114.614-255.979 256.007 0 141.351 114.599 255.964 255.979 255.964 141.356 0 255.971-114.613 255.986-255.964-.014-141.393-114.629-255.993-255.986-256.007zm0 56.289c47.124 0 90.317 16.469 124.517 43.889-26.167 31.345-60.728 54.043-98.058 70.071-26.24-50.729-51.59-87.009-68.918-109.21 13.723-3.029 27.888-4.75 42.459-4.75zm-88.226 20.808c13.865 16.369 41.636 52.394 71.274 108.626-60.285 17.947-120.992 22.173-157.727 22.144-1.038 0-2.084 0-3.1-.015h-.037c-6.185 0-11.504-.099-15.948-.241 14.335-57.315 53.622-104.815 105.538-130.514zm-111.498 178.91c0-.939.035-1.892.092-2.873 5.703.199 13.021.383 21.815.383h.043c40.15-.27 110.242-3.612 181.28-26.04 3.868 8.463 7.707 17.28 11.505 26.438-47.436 15.871-84.803 41.144-112.439 66.302-26.594 24.235-44.577 48.228-55.072 64.254-29.388-34.801-47.209-79.499-47.224-128.465zm199.724 199.715c-44.458 0-85.409-14.688-118.647-39.363 7.062-11.635 22.209-33.962 46.322-57.046 24.817-23.779 59.056-48.238 103.777-62.817 15.201 42.608 28.955 91.318 39.438 146.143-22.073 8.407-45.924 13.083-70.889 13.083zm113.027-35.467c-10.14-49.578-22.883-94.292-36.861-134.198 12.971-1.863 26.608-2.901 40.957-2.901h.583c23.822 0 49.992 2.958 78.378 9.401-9.828 52.805-40.406 98.286-83.056 127.699zm4.75-182.751v-.029h-.198c-20.479 0-39.721 1.877-57.84 5.077-4.423-10.794-8.876-21.162-13.37-31.088 40.365-17.706 79.103-42.922 110.476-78.733 24.974 31.715 40.617 70.981 42.579 113.874-28.899-6.143-56.188-9.101-81.647-9.101z"/></svg></a><a href="http://instagram.com/artbees" rel="nofollow" class="builtin-icons custom small instagram-hover" target="_blank" alt="Follow Us on instagram" title="Follow Us on instagram"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-instagram" data-cacheid="icon-5c8aca634523c" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.2 81.2"><path d="M81,23.9c-0.2-4.3-0.9-7.3-1.9-9.9c-1-2.7-2.4-4.9-4.7-7.2c-2.3-2.3-4.5-3.6-7.2-4.7c-2.6-1-5.5-1.7-9.9-1.9 C53,0,51.6,0,40.6,0c-11,0-12.4,0-16.7,0.2c-4.3,0.2-7.3,0.9-9.9,1.9c-2.7,1-4.9,2.4-7.2,4.7C4.6,9.1,3.2,11.3,2.1,14 c-1,2.6-1.7,5.5-1.9,9.9C0,28.2,0,29.6,0,40.6c0,11,0,12.4,0.2,16.7c0.2,4.3,0.9,7.3,1.9,9.9c1,2.7,2.4,4.9,4.7,7.2 c2.3,2.3,4.5,3.6,7.2,4.7c2.6,1,5.5,1.7,9.9,1.9c4.3,0.2,5.7,0.2,16.7,0.2c11,0,12.4,0,16.7-0.2c4.3-0.2,7.3-0.9,9.9-1.9 c2.7-1,4.9-2.4,7.2-4.7c2.3-2.3,3.6-4.5,4.7-7.2c1-2.6,1.7-5.5,1.9-9.9c0.2-4.3,0.2-5.7,0.2-16.7C81.2,29.6,81.2,28.2,81,23.9z  M73.6,57c-0.2,4-0.8,6.1-1.4,7.5c-0.7,1.9-1.6,3.2-3,4.7c-1.4,1.4-2.8,2.3-4.7,3c-1.4,0.6-3.6,1.2-7.5,1.4 c-4.3,0.2-5.6,0.2-16.4,0.2c-10.8,0-12.1,0-16.4-0.2c-4-0.2-6.1-0.8-7.5-1.4c-1.9-0.7-3.2-1.6-4.7-3c-1.4-1.4-2.3-2.8-3-4.7 C8.4,63.1,7.7,61,7.6,57c-0.2-4.3-0.2-5.6-0.2-16.4c0-10.8,0-12.1,0.2-16.4c0.2-4,0.8-6.1,1.4-7.5c0.7-1.9,1.6-3.2,3-4.7 c1.4-1.4,2.8-2.3,4.7-3c1.4-0.6,3.6-1.2,7.5-1.4c4.3-0.2,5.6-0.2,16.4-0.2c10.8,0,12.1,0,16.4,0.2c4,0.2,6.1,0.8,7.5,1.4 c1.9,0.7,3.2,1.6,4.7,3c1.4,1.4,2.3,2.8,3,4.7c0.6,1.4,1.2,3.6,1.4,7.5c0.2,4.3,0.2,5.6,0.2,16.4C73.9,51.4,73.8,52.7,73.6,57z"/><path d="M40.6,19.8c-11.5,0-20.8,9.3-20.8,20.8c0,11.5,9.3,20.8,20.8,20.8c11.5,0,20.8-9.3,20.8-20.8 C61.4,29.1,52.1,19.8,40.6,19.8z M40.6,54.1c-7.5,0-13.5-6.1-13.5-13.5c0-7.5,6.1-13.5,13.5-13.5c7.5,0,13.5,6.1,13.5,13.5 C54.1,48.1,48.1,54.1,40.6,54.1z"/><circle cx="62.3" cy="18.9" r="4.9"/></svg></a><a href="https://www.pinterest.com/artbees_design" rel="nofollow" class="builtin-icons custom small pinterest-hover" target="_blank" alt="Follow Us on pinterest" title="Follow Us on pinterest"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-pinterest" data-cacheid="icon-5c8aca63453cb" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M267.702-6.4c-135.514 0-203.839 100.197-203.839 183.724 0 50.583 18.579 95.597 58.402 112.372 6.536 2.749 12.381.091 14.279-7.361 1.325-5.164 4.431-18.204 5.83-23.624 1.913-7.363 1.162-9.944-4.107-16.38-11.483-13.968-18.829-32.064-18.829-57.659 0-74.344 53.927-140.883 140.431-140.883 76.583 0 118.657 48.276 118.657 112.707 0 84.802-36.392 156.383-90.42 156.383-29.827 0-52.161-25.445-45.006-56.672 8.569-37.255 25.175-77.456 25.175-104.356 0-24.062-12.529-44.147-38.469-44.147-30.504 0-55 32.548-55 76.119 0 27.782 9.097 46.546 9.097 46.546s-31.209 136.374-36.686 160.269c-10.894 47.563-1.635 105.874-.853 111.765.456 3.476 4.814 4.327 6.786 1.67 2.813-3.781 39.131-50.022 51.483-96.234 3.489-13.087 20.066-80.841 20.066-80.841 9.906 19.492 38.866 36.663 69.664 36.663 91.686 0 153.886-86.2 153.886-201.577 0-87.232-71.651-168.483-180.547-168.483z"/></svg></a><a href="https://twitter.com/artbees_design" rel="nofollow" class="builtin-icons custom small twitter-hover" target="_blank" alt="Follow Us on twitter" title="Follow Us on twitter"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-twitter" data-cacheid="icon-5c8aca6345572" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M454.058 213.822c28.724-2.382 48.193-15.423 55.683-33.132-10.365 6.373-42.524 13.301-60.269 6.681-.877-4.162-1.835-8.132-2.792-11.706-13.527-49.679-59.846-89.698-108.382-84.865 3.916-1.589 7.914-3.053 11.885-4.388 5.325-1.923 36.678-7.003 31.749-18.079-4.176-9.728-42.471 7.352-49.672 9.597 9.501-3.581 25.26-9.735 26.93-20.667-14.569 1.991-28.901 8.885-39.937 18.908 3.998-4.293 7.01-9.536 7.666-15.171-38.91 24.85-61.624 74.932-80.025 123.523-14.438-13.972-27.239-25.008-38.712-31.114-32.209-17.285-70.722-35.303-131.156-57.736-1.862 19.996 9.899 46.591 43.723 64.273-7.325-.986-20.736 1.219-31.462 3.773 4.382 22.912 18.627 41.805 57.251 50.918-17.642 1.163-26.767 5.182-35.036 13.841 8.043 15.923 27.656 34.709 62.931 30.82-39.225 16.935-15.998 48.234 15.93 43.565-54.444 56.244-140.294 52.123-189.596 5.08 128.712 175.385 408.493 103.724 450.21-65.225 31.23.261 49.605-10.823 60.994-23.05-17.99 3.053-44.072-.095-57.914-5.846z"/></svg></a><a href="https://www.youtube.com/channel/UCAc_7aMsfG-2_EBQFWHheeA/featured" rel="nofollow" class="builtin-icons custom small youtube-hover" target="_blank" alt="Follow Us on youtube" title="Follow Us on youtube"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-youtube" data-cacheid="icon-5c8aca634572a" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M146.112 194.063h31.18l.036-107.855 36.879-92.4h-34.136l-19.588 68.63-19.881-68.82h-33.762l39.219 92.627zm257.78 157.717c0-7.255-5.968-13.18-13.282-13.18h-1.769c-7.285 0-13.253 5.925-13.253 13.18l-.118 16.326h28.103l.32-16.326zm-192.18-214.16c0 12.324.594 21.577 1.851 27.736 1.236 6.151 3.284 11.439 6.202 15.755 2.897 4.323 6.948 7.599 12.2 9.75 5.237 2.187 11.578 3.218 19.119 3.218 6.744 0 12.727-1.236 17.95-3.76 5.164-2.508 9.42-6.443 12.726-11.695 3.335-5.325 5.514-10.986 6.51-17.094 1.009-6.093 1.536-15.688 1.536-28.738v-35.562c0-10.306-.557-17.956-1.654-23.025-1.082-5.002-3.115-9.889-6.113-14.643-2.956-4.74-7.198-8.587-12.698-11.534-5.471-2.948-12.04-4.448-19.682-4.448-9.099 0-16.574 2.312-22.418 6.92-5.865 4.587-9.918 10.679-12.156 18.25-2.231 7.599-3.373 18.138-3.373 31.64v37.23zm25.9-56.232c0-7.951 5.932-14.453 13.151-14.453 7.227 0 13.107 6.502 13.107 14.453v74.861c0 7.965-5.88 14.475-13.107 14.475-7.219 0-13.151-6.51-13.151-14.475v-74.861zm60.562 251.726c-7.139 0-12.976 4.798-12.976 10.664v79.374c0 5.866 5.836 10.635 12.976 10.635 7.137 0 12.99-4.769 12.99-10.635v-79.374c0-5.866-5.851-10.664-12.99-10.664zm13.75-153.306c1.536 3.73 3.921 6.743 7.139 9.018 3.188 2.238 7.269 3.372 12.142 3.372 4.286 0 8.06-1.156 11.366-3.54 3.291-2.377 6.072-5.917 8.323-10.649l-.557 11.644h33.06v-140.623h-26.039v109.443c0 5.931-4.871 10.773-10.839 10.773-5.94 0-10.825-4.842-10.825-10.773v-109.443h-27.193v94.844c0 12.083.219 20.135.584 24.224.381 4.053 1.317 7.951 2.838 11.711zm87.595 43.066h-287.031c-38.406 0-69.814 29.652-69.814 65.857v150.994c0 36.221 31.407 65.858 69.814 65.858h287.031c38.385 0 69.808-29.637 69.808-65.858v-150.994c0-36.205-31.422-65.857-69.808-65.857zm-297.577 233.236v-159.494l-29.609-.087v-23.172l94.857.161v23.551h-35.591l.023 159.041h-29.68zm136.35-.029l-23.829-.031.066-17.553c-6.407 13.751-31.977 24.824-45.333 15.185-7.154-5.135-6.898-14.13-7.63-21.856-.387-4.373-.065-13.999-.101-26.902l-.088-84.17h29.512l.117 85.531c0 11.659-.629 18.461.081 20.714 4.243 12.858 15.09 5.881 17.496-.717.775-2.164.029-8.308.029-20.596v-84.932h29.681v135.327zm44.215-12.801l-2.223 11.294-24.372.365.147-181.406 29.636-.06-.103 52.575c27.356-21.81 47.512-5.661 47.542 21.269l.06 70.714c.043 34.244-19.544 53.817-50.688 25.248zm68.578-34.537v-42.129c0-12.656 1.242-22.617 3.774-29.901 2.5-7.285 6.817-12.713 12.447-16.764 17.978-12.96 53.526-8.938 57.169 16.399 1.156 8.017 1.536 22.015 1.536 36.031v19.163h-50.952v32.635c0 6.656 5.486 12.053 12.173 12.053h4.358c6.657 0 12.144-5.397 12.144-12.053v-12.404c.014-1.098.043-2.106.058-2.999l22.25-.117c10.151 60.269-74.956 70.173-74.956.088z"/></svg></a>
+					<style>
+						#social-5c8aca6344e9a a { 
+							opacity: 1 !important;margin: 25px;color: #222222 !important;}
+						#social-5c8aca6344e9a a:hover { color: #888888 !important;}
+						#social-5c8aca6344e9a a:hover .mk-svg-icon { fill: #888888 !important;}</style></div></section><section id="text-8" class="widget widget_text">			<div class="textwidget"><div style="text-align: center;">Patricia C. Amedee 4401 Waldeck Street Grapevine Nashville, TX 76051</div>
+<div style="text-align: center;">Phone: +99 (0) 101 0000 888</div>
+</div>
+		</section></div>
+				<div class="clearboth"></div>
+		</div>
+	</div>
+		</section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back">
+	<svg  class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-5c8aca6345d13" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"/></svg></a>
+	<div class="mk-quick-contact-wrapper js-bottom-corner-btn js-bottom-corner-btn--contact">
+			
+		<a href="#" class="mk-quick-contact-link"><svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-5c8aca6346039" style=" height:20px; width: 20px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a>
+		<div id="mk-quick-contact">
+			<div class="mk-quick-contact-title">Contact Us</div>
+			<p>We&#039;re not around right now. But you can send us an email and we&#039;ll get back to you, asap.</p>
+			<form class="mk-contact-form" method="post" novalidate="novalidate">
+				<input type="text" placeholder="Name*" required="required" id="name" name="name" class="text-input" value="" tabindex="3214" />
+				<input type="email" data-type="email" required="required" placeholder="Email*" id="email" name="email" class="text-input" value="" tabindex="3215"  />
+				<textarea placeholder="Message*" required="required" id="content" name="content" class="textarea" tabindex="3216"></textarea>
+								<input placeholder="Enter Captcha" type="text" data-type="captcha" name="captcha" class="captcha-form text-input full" required="required" autocomplete="off" />
+				<a href="#" class="captcha-change-image">Not readable? Change text.</a>
+				<span class="captcha-image-holder">
+					<img src="https://jupiter.artbees.net/chaldene/wp-content/plugins/artbees-captcha/generate-captcha.php" class="captcha-image" alt="captcha txt"/>
+				</span>
+				<br/>
+				
+								<div class="mk-quick-contact-gdpr-consent">
+					<div>
+					<input type="checkbox" name="contact_form_gdpr_check" id="gdpr_check_3217" class="mk-checkbox" required="required" value="" tabindex="3217" /><label for="gdpr_check_3217">I consent to Chaldene Template - Jupiter WordPress Theme collecting my details through this form.</label>
+					</div>
+				</div>
+				
+				<div class="btn-cont">
+					<button tabindex="3218" class="mk-progress-button mk-contact-button accent-bg-color button" data-style="move-up">
+						<span class="mk-progress-button-content">Send</span>
+						<span class="mk-progress">
+							<span class="mk-progress-inner"></span>
+						</span>
+						<span class="state-success"><svg  class="mk-svg-icon" data-name="mk-moon-checkmark" data-cacheid="icon-5c8aca634634b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M432 64l-240 240-112-112-80 80 192 192 320-320z"/></svg></span>
+						<span class="state-error"><svg  class="mk-svg-icon" data-name="mk-moon-close" data-cacheid="icon-5c8aca634670b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M507.331 411.33l-.006-.005-155.322-155.325 155.322-155.325.006-.005c1.672-1.673 2.881-3.627 3.656-5.708 2.123-5.688.912-12.341-3.662-16.915l-73.373-73.373c-4.574-4.573-11.225-5.783-16.914-3.66-2.08.775-4.035 1.984-5.709 3.655l-.004.005-155.324 155.326-155.324-155.325-.005-.005c-1.673-1.671-3.627-2.88-5.707-3.655-5.69-2.124-12.341-.913-16.915 3.66l-73.374 73.374c-4.574 4.574-5.784 11.226-3.661 16.914.776 2.08 1.985 4.036 3.656 5.708l.005.005 155.325 155.324-155.325 155.326-.004.005c-1.671 1.673-2.88 3.627-3.657 5.707-2.124 5.688-.913 12.341 3.661 16.915l73.374 73.373c4.575 4.574 11.226 5.784 16.915 3.661 2.08-.776 4.035-1.985 5.708-3.656l.005-.005 155.324-155.325 155.324 155.325.006.004c1.674 1.672 3.627 2.881 5.707 3.657 5.689 2.123 12.342.913 16.914-3.661l73.373-73.374c4.574-4.574 5.785-11.227 3.662-16.915-.776-2.08-1.985-4.034-3.657-5.707z"/></svg></span>
+					</button>
+				</div>
+				<input type="hidden" id="security" name="security" value="d8014a4a84" /><input type="hidden" name="_wp_http_referer" value="/chaldene/shop/?add-to-cart=66" />				<input type="hidden" id="sh_id" name="sh_id" value="15"><input type="hidden" id="p_id" name="p_id" value="2342">				<div class="contact-form-message clearfix"></div>  
+			</form>
+			<div class="bottom-arrow"></div>
+		</div>
+	</div>
+		<div class="add-cart-responsive-state">
+			<a class="mk-shoping-cart-link" href="https://jupiter.artbees.net/chaldene/cart/">
+				<svg  class="mk-svg-icon" data-name="mk-moon-cart-2" data-cacheid="icon-5c8aca6346b0f" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M423.609 288c17.6 0 35.956-13.846 40.791-30.769l46.418-162.463c4.835-16.922-5.609-30.768-23.209-30.768h-327.609c0-35.346-28.654-64-64-64h-96v64h96v272c0 26.51 21.49 48 48 48h304c17.673 0 32-14.327 32-32s-14.327-32-32-32h-288v-32h263.609zm-263.609-160h289.403l-27.429 96h-261.974v-96zm32 344c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16zm288 0c0 22-18 40-40 40h-16c-22 0-40-18-40-40v-16c0-22 18-40 40-40h16c22 0 40 18 40 40v16z"/></svg>				<span class="mk-header-cart-count">7</span>
+			</a>
+		</div>
+		</div>
+
+
+
+<div class="mk-fullscreen-search-overlay">
+	<a href="#" class="mk-fullscreen-close"><svg  class="mk-svg-icon" data-name="mk-moon-close-2" data-cacheid="icon-5c8aca6346ee6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M390.628 345.372l-45.256 45.256-89.372-89.373-89.373 89.372-45.255-45.255 89.373-89.372-89.372-89.373 45.254-45.254 89.373 89.372 89.372-89.373 45.256 45.255-89.373 89.373 89.373 89.372z"/></svg></a>
+	<div class="mk-fullscreen-search-wrapper">
+		<p>Start typing and press Enter to search</p>
+		<form method="get" id="mk-fullscreen-searchform" action="https://jupiter.artbees.net/chaldene/">
+			<input type="text" value="" name="s" id="mk-fullscreen-search-input" />
+			<i class="fullscreen-search-icon"><svg  class="mk-svg-icon" data-name="mk-icon-search" data-cacheid="icon-5c8aca6347169" style=" height:25px; width: 23.214285714286px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1152 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg></i>
+		</form>
+	</div>
+</div>
+
+
+	<style type='text/css'></style><style id="mk-shortcode-static-styles" type="text/css"> #fancy-title-4{letter-spacing:0px;text-transform:capitalize;font-size:45px;color:#ffffff;text-align:center;font-style:inherit;font-weight:400;padding-top:0px;padding-bottom:0px;}#fancy-title-4 span{}#fancy-title-4 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-4 { text-align:center !important; } } #fancy-title-5{letter-spacing:0px;text-transform:capitalize;font-size:75px;color:#ffffff;text-align:center;font-style:inherit;font-weight:400;padding-top:0px;padding-bottom:20px;}#fancy-title-5 span{}#fancy-title-5 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-5 { text-align:center !important; } } .full-width-2 { min-height:610px; margin-bottom:0px; } .full-width-2 .page-section-content { padding:10px 0 10px; } #background-layer--2 { ; background-position:center top; background-repeat:repeat; ; } #background-layer--2 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; }  #padding-8 { height:140px; } #fancy-title-9{letter-spacing:0px;text-transform:capitalize;font-size:48px;color:#222222;text-align:center;font-style:inherit;font-weight:400;padding-top:0px;padding-bottom:20px;}#fancy-title-9 span{}#fancy-title-9 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-9 { text-align:center !important; } } #mk-button-11 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-11 .mk-button { display:inline-block; max-width:100%; } #mk-button-11 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-11 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-11 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-11 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-12 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-12 .mk-button { display:inline-block; max-width:100%; } #mk-button-12 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-12 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-12 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-12 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-13 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-13 .mk-button { display:inline-block; max-width:100%; } #mk-button-13 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-13 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-13 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-13 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-14 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-14 .mk-button { display:inline-block; max-width:100%; } #mk-button-14 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-14 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-14 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-14 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-15 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-15 .mk-button { display:inline-block; max-width:100%; } #mk-button-15 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-15 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-15 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-15 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-16 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-16 .mk-button { display:inline-block; max-width:100%; } #mk-button-16 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-16 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-16 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-16 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-17 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-17 .mk-button { display:inline-block; max-width:100%; } #mk-button-17 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-17 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-17 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-17 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-18 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-18 .mk-button { display:inline-block; max-width:100%; } #mk-button-18 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-18 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-18 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-18 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-19 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-19 .mk-button { display:inline-block; max-width:100%; } #mk-button-19 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-19 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-19 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-19 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-20 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-20 .mk-button { display:inline-block; max-width:100%; } #mk-button-20 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-20 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-20 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-20 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-21 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-21 .mk-button { display:inline-block; max-width:100%; } #mk-button-21 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-21 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-21 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-21 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-22 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-22 .mk-button { display:inline-block; max-width:100%; } #mk-button-22 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-22 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-22 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-22 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-23 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-23 .mk-button { display:inline-block; max-width:100%; } #mk-button-23 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-23 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-23 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-23 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-24 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-24 .mk-button { display:inline-block; max-width:100%; } #mk-button-24 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-24 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-24 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-24 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-25 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-25 .mk-button { display:inline-block; max-width:100%; } #mk-button-25 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-25 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-25 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-25 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } #mk-button-26 { margin-bottom:0px; margin-top:0px; margin-right:15px; } #mk-button-26 .mk-button { display:inline-block; max-width:100%; } #mk-button-26 .mk-button { border-color:#000000; color:#000000!important; } #mk-button-26 .mk-button .mk-svg-icon { fill:#000000!important; } #mk-button-26 .mk-button:hover { background-color:#000000; color:#ffffff!important; } #mk-button-26 .mk-button:hover .mk-svg-icon { fill:#ffffff!important; } .full-width-6 { min-height:100px; margin-bottom:0px; } .full-width-6 .page-section-content { padding:10px 0 10px; } #background-layer--6 { ; background-position:left top; background-repeat:repeat; ; } #background-layer--6 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; }  #padding-28 { height:100px; }  #padding-31 { height:20px; } #fancy-title-32{letter-spacing:0px;text-transform:capitalize;font-size:30px;color:#ffffff;text-align:left;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:0px;}#fancy-title-32 span{}#fancy-title-32 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-32 { text-align:center !important; } } #fancy-title-33{letter-spacing:0px;text-transform:uppercase;font-size:18px;color:#ffffff;text-align:left;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:20px;}#fancy-title-33 span{}#fancy-title-33 span i{font-style:inherit;} @media handheld, only screen and (max-width:767px) { #fancy-title-33 { text-align:center !important; } }  #padding-35 { height:20px; } #mk-button-36 { margin-bottom:15px; margin-top:20px; margin-right:15px; } #mk-button-36 .mk-button { display:inline-block; max-width:100%; } #mk-button-36 .mk-button { background-color:#c7b083; } #mk-button-36 .mk-button:hover { color:#ffffff !important; background-color:#c6a357; } #mk-button-36 .mk-button:hover .mk-svg-icon { color:#ffffff !important; } #mk-button-37 { margin-bottom:15px; margin-top:20px; margin-right:15px; } #mk-button-37 .mk-button { display:inline-block; max-width:100%; } .full-width-29 { min-height:180px; margin-bottom:0px; } .full-width-29 .page-section-content { padding:20px 0 20px; } #background-layer--29 { ; background-position:left top; background-repeat:no-repeat; ; } #background-layer--29 .mk-color-layer { ; width:100%; height:100%; position:absolute; top:0; left:0; }  #padding-39 { height:60px; }</style><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js'
+      };
+    </script><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/a-walk-in-the-sun\/","name":"A Walk in the Sun","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/a-walk-in-the-sun\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/absolute-sweetness\/","name":"Absolute Sweetness","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/absolute-sweetness\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/amaranth\/","name":"Amaranth","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/amaranth\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/begonia\/","name":"Begonia","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/begonia\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bellflower\/","name":"Bellflower","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bellflower\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bergamot\/","name":"Bergamot","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bergamot\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bingol\/","name":"Bingol","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/bingol\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/lavender-wishes\/","name":"Lavender Wishes","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/lavender-wishes\/"},{"@type":"Product","@id":"https:\/\/jupiter.artbees.net\/chaldene\/product\/marinoseta\/","name":"Marinoseta","url":"https:\/\/jupiter.artbees.net\/chaldene\/product\/marinoseta\/"}]}</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='js_composer_front-css'  href='https://jupiter.artbees.net/chaldene/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='Playfair+Display-css'  href='//fonts.googleapis.com/css?family=Playfair+Display%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.0.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/chaldene\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/chaldene\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/chaldene\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/chaldene\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_11bb1a6af1f1ff9b388bb0526690efa3","fragment_name":"wc_fragments_11bb1a6af1f1ff9b388bb0526690efa3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.4.5'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js/core-scripts.6.1.5.js?ver=1533197636'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js/components-full.6.1.5.js?ver=1533197636'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=1533197636'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-render.js?ver=6.1.5'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/header-builder/includes/assets/js/mkhb-column.js?ver=6.1.5'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/themes/jupiter/framework/admin/customizer/woocommerce/assets/js/woocommerce.6.1.5.js?ver=1533197636'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=3.4.5'></script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_price_slider_params = {"currency_format_num_decimals":"0","currency_format_symbol":"\u00a3","currency_format_decimal_sep":".","currency_format_thousand_sep":",","currency_format":"%s%v"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jupiter.artbees.net/chaldene/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=3.4.5'></script>
+<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>
+	</body>
+</html>
