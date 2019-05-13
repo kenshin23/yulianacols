@@ -10,12 +10,12 @@ Este paso corresponde al paso 2 en el documento de planificación y conlleva un 
 
 Favor revisar cada opción y hacerme llegar los comentarios al respecto.
 
-1. [Opción 1](https://kenshin23.github.io/yulianacols/apemius/)
+1. [~~Opción 1~~](https://kenshin23.github.io/yulianacols/apemius/)
 2. [Opción 2](https://kenshin23.github.io/yulianacols/jovial/)
 3. [Opción 3](https://kenshin23.github.io/yulianacols/chaldene/)
 4. [Opción 4](https://kenshin23.github.io/yulianacols/devagura/)
-5. [Opción 5](https://kenshin23.github.io/yulianacols/litae/)
-6. [Opción 6](https://kenshin23.github.io/yulianacols/almus/)
+5. [~~Opción 5~~](https://kenshin23.github.io/yulianacols/litae/)
+6. [~~Opción 6~~](https://kenshin23.github.io/yulianacols/almus/)
 
 Gracias de antemano,
 
