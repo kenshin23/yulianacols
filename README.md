@@ -8,7 +8,11 @@ La intención es que esto pueda servir como muestra para ayudar a elegir un tema
 
 Este paso corresponde al paso 2 en el documento de planificación y conlleva un costo del 20% del costo total del proyecto, a ser pagado al momento de elegir una opción de tema.
 
-Favor revisar cada opción y hacerme llegar los comentarios al respecto.
+El trabajo en curso se encuentra en el siguiente enlace:
+
+[Opción Seleccionada](https://kenshin23.github.io/yulianacols/progress/)
+
+Las opciones propuestas quedan como referencia:
 
 1. [~~Opción 1~~](https://kenshin23.github.io/yulianacols/apemius/)
 2. [Opción 2](https://kenshin23.github.io/yulianacols/jovial/)
